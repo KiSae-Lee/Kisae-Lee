@@ -1,3 +1,4 @@
 # Portfolio
-This is my portfolio. Update in variable interval.</br>
-https://kisae-lee.github.io/Portfolio/
+**Updating Frequency** : Update in variable interval.
+
+**Link** : https://kisae-lee.github.io/Portfolio/
