@@ -43,4 +43,4 @@
 
 ## ▎🧑‍💻 Portfolio Notion
 **Updating Frequency** : Update in variable interval. </br>
-**Link** : https://kisae-lee.github.io/Portfolio/
+**Link** : https://kisae-lee.github.io/Kisae-Lee/
